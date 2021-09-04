@@ -1,1 +1,1 @@
-web: voila --no-browser --enable_nbextensions=True gui.ipynb
+web: voila --port=8866 --no-browser gui.ipynb
