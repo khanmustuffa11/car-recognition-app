@@ -1,1 +1,1 @@
-web: voila --port=8866 --no-browser gui.ipynb
+web: voila --host=0.0.0.0 --port=8866 --no-browser gui.ipynb
